@@ -13,6 +13,7 @@
 #### 功能的实现
 
 - 歌单页面、推荐、歌手、排行榜
+  ![](https://github.com/zxNoral/NeteaseCloudMusic/blob/master/images/Find.jpg)
 - 搜索歌手，歌名等
 - 音乐播放器
 - 视频播放、歌词展现
