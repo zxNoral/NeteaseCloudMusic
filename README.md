@@ -13,14 +13,22 @@
 #### 功能的实现
 
 - 歌单页面、推荐、歌手、排行榜
+
   ![](https://github.com/zxNoral/NeteaseCloudMusic/blob/master/images/Find.jpg)
   ![](https://github.com/zxNoral/NeteaseCloudMusic/blob/master/images/Rank.jpg)
+
 - 搜索歌手，歌名
+
   ![](https://github.com/zxNoral/NeteaseCloudMusic/blob/master/images/search.jpg)
+
 - 音乐的个人收藏，喜好
+
   ![](https://github.com/zxNoral/NeteaseCloudMusic/blob/master/images/My.jpg)
+
 - 个人主菜单
+
   ![](https://github.com/zxNoral/NeteaseCloudMusic/blob/master/images/SilderMenu.jpg)
+
 - 音乐播放器视频播放、歌词展现
 
 #### 项目的启动
