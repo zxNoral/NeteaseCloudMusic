@@ -8,7 +8,7 @@
 
 #### 技术点
 
-> React、React-router、mobx、fetch、ant-mbnile、less、ES6
+> React、React-router、mobx、fetch、antd-mobile、less、ES6
 
 #### 功能的实现
 
