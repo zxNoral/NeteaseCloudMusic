@@ -1,6 +1,6 @@
 # NeteaseCloudMusic
 
-#### 基于React和mobx的网易云音乐App
+#### 基于React和mobx的音乐播放器App
 
 > 后端使用网易云音乐API的github地址：https://github.com/Binaryify/NeteaseCloudMusicApi
 
